@@ -1,0 +1,9 @@
+{
+    "id": "nodebb-plugin-smms",
+    "description": "A nodebb plugin that upload images to sm.ms",
+    "url": "https://github.com/lzjluzijie/nodebb-plugin-smms",
+    "library": "./index.js",
+    "hooks": [
+        { "hook": "filter:uploadImage", "method": "upload", "priority": 6 }
+    ]
+}
