@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-smms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A nodebb plugin that upload images to sm.ms",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "author": "Halulu <lzjluzijie@gmail.com>",
   "license": "Apache License 2.0",
   "dependencies": {
-    "request": "^2.0.0",
+    "request": "^2.0.0"
   },
   "nbbpm": {
     "compatibility": "^1.0.0"
