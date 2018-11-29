@@ -1,3 +1,6 @@
+//Modified from https://github.com/barisusakli/nodebb-plugin-imgur
+//Also check https://github.com/lzjluzijie/nodebb-plugin-6tu
+
 'use strict';
 
 var request = require('request');
